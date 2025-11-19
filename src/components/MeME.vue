@@ -72,9 +72,6 @@ import {imageList} from "../assets/config/images.ts";
                     height: auto;
                     max-height: 140px;
                     z-index: 0;
-                    @media (min-width: 768px) {
-                        max-height: 160px;
-                    }
                 }
             }
         }
